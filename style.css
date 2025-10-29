@@ -1,1 +1,23 @@
+/* Parte 1: Nav */
+.nav { ... }
+.nav__logo { ... }
+.nav__avatar { ... }
+.nav__black { background-color: #111; transition: ... }
 
+/* Parte 2: Header */
+.banner { ... }
+.banner__contents { ... }
+.banner__title { ... }
+.banner__buttons { ... }
+.banner__button { ... }
+.banner__description { ... }
+.banner--fadeBottom { ... }
+
+/* Parte 3 e 4: Rows */
+.row { ... }
+.row h2 { ... }
+.row__posters { ... }
+.row__poster { ... }
+.row__posterLarge { ... }
+
+/* Parte 5: nav__black (já incluso acima) */
